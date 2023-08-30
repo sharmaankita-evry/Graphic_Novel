@@ -24,7 +24,7 @@ Midjourney Bot  is used here to generate textual descriptions of scenes, charact
 * /imagine :  
 Used the midjourney bot to generate the descriptions and then used the descriptions to generate further images using /imagine. 
 * /blend: 
-Combined best of the 50 images from the output of imagine and describe to generate the blended images using the /blend.
+Combined best of the 10 images from the output of imagine and describe to generate the blended images using the /blend.
 
 # What are your results?
 Generative image tools like Midjourney often work by taking textual descriptions and converting them into visual representations. For "The Elves and the Shoemaker," these images could include scenes depicting:
