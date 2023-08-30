@@ -14,15 +14,23 @@ It stands out as an interesting story due to its magical elements, themes of gen
 By thoroughly engaging with and understanding the complete story, the process involved extracting the pivotal elements and significant plot points present within the narrative. This endeavor commenced by compiling comprehensive lists that encompassed a range of categories, including characters, elements of magic, various settings, key events and situations, overarching themes, evoked emotions, underlying conflicts, as well as distinctive lighting and color descriptions.
 Then generated mj_prompts for this story which provided more variations for generating the images.
 * Tools and Technology Used:
+  
 1.(GPT-3) model for comprehension and prompt formulation.
+
 2.Midjourney bot for generating descriptive paragraphs based on MJ prompts.
+
 3./image:It would generally input relevant details or prompts, and the bot would respond by generating an image based on those inputs. This could be useful for visually representing concepts, scenes, or ideas.
+
 4./blend:This technique can be useful for blending different visual elements, textures, colors, or images to achieve a specific artistic or storytelling effect.
+
 5./describe:/describe creatively generated descriptions of various images.
+
 * Midjourney Bot: 
 Midjourney Bot  is used here to generate textual descriptions of scenes, characters, and emotions.
+
 * /imagine :  
-Used the midjourney bot to generate the descriptions and then used the descriptions to generate further images using /imagine. 
+Used the midjourney bot to generate the descriptions and then used the descriptions to generate further images using /imagine.
+
 * /blend: 
 Combined best of the 10 images from the output of imagine and describe to generate the blended images using the /blend.
 
