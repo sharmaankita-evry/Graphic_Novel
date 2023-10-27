@@ -56,11 +56,11 @@ If you're looking for actual generated images based on "The Elves and the Shoema
 The images that have been generated accurately portray the story, making it simpler for individuals to grasp the story's context by simply reviewing the enhanced visuals..
 
 Best images:
-![img1](images/img15.png?version%253D1693411781681)
+![img1](images/mj_aO1_Pthlum0.png)
 
-![img2](images/img4.png?version%253D1693411970878)
+![img2](images/mj_aO1_hugax6.png)
 
-![img3](images/img18.png?version%253D1693412032121)
+![img3](images/mj_aO1_0JdAD8.png)
 
 
 
